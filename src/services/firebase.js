@@ -5,19 +5,19 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyAoIPoptRoUQungnX-lYBtrNJylsovpTV8",
+  apiKey: "AIzaSyC8Z4OzUKjn31QFq6-iAHUT9HTaPjDp18k",
 
-  authDomain: "loan-sphere-32bfa.firebaseapp.com",
+  authDomain: "grand-radio-462820-m2.firebaseapp.com",
 
-  projectId: "loan-sphere-32bfa",
+  projectId: "grand-radio-462820-m2",
 
-  storageBucket: "loan-sphere-32bfa.firebasestorage.app",
+  storageBucket: "grand-radio-462820-m2.firebasestorage.app",
 
-  messagingSenderId: "85658144660",
+  messagingSenderId: "249128067374",
 
-  appId: "1:85658144660:web:a28ba9bcb26de817d10981",
+  appId: "1:249128067374:web:ef2962a68a020d45715abf",
 
-  measurementId: "G-5JHQR33FTS"
+  measurementId: "G-4GMCZGF4M7"
 
 };
 
